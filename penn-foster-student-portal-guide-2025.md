@@ -14,7 +14,7 @@ Students can access the portal from any device, allowing flexibility and freedom
 Follow these simple steps to access your account:
 
 1. Visit the official login page:  
-   👉 [https://login.pennfoster.edu/](https://login.pennfoster.edu/)
+   👉 [https://penn-fosterinfo.com/](https://penn-fosterinfo.com/)
 
 2. Enter your **Student ID** or **Email Address**.
 
